@@ -23,4 +23,4 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Jekyll Actions
-      uses: lemonarc/jekyll-action@1.0.0
+      uses: helaili/jekyll-action@2.0.3
