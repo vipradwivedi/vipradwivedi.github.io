@@ -4,7 +4,9 @@
 
 layout: home
 ---
-# Vipra Dwivedi 
+<link rel="stylesheet" href="/assets/css/styles.css">
+
+# Vipra Dwivedi
 {: .no_toc }
 
 8 years of experience as Developer, DevOps, SRE
