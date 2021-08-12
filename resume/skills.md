@@ -10,5 +10,6 @@
   <dt>Web Server</dt>                            <dd>Nginx, Apache</dd>
   <dt>Logging, Monitoring and Alerting</dt>      <dd>Elastic Stack, Splunk, CheckMK, Prometheus, Grafana, Graylog, Wavefront, Pingdom, PagerDuty etc</dd>
   <dt>Content Delivery Network</dt>              <dd>CloudFront, Akamai</dd>
+  <dt>HashiCorp Stack</dt>                       <dd>Terraform, consul, vault, nomad</dd>
   <dt>Continuous Integration and Delivery</dt>   <dd>git, Jenkins, Capistrano, Maven, Nexus, Artifactory</dd>
 </dl>

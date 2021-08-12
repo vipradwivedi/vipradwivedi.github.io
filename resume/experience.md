@@ -1,7 +1,21 @@
 
 ## Experience
 
-### Groupon Shared Services Private Limited  (Sept 2015 -- till date)
+### CISCO Systems (India) Private Limited  (Oct 2020 -- till date)
+Senior Site Reliability Engineer
+{: .label .label-blue }
+
+Part of the CISCO Contact Center product offering SRE team. 
+Experience in handling large scale production environments. 
+Below are the part of my job responsibilities in current role
+ 
+* Develop and maintain multiple large scale environments.
+* Expertise in infrastructure provisioning in cloud with zero downtime.
+* Production monitoring and pagerduty on call support for prod issues. 
+* Build CICD pipelines with Jenkins, Spinnaker and other tools
+
+
+### Groupon Shared Services Private Limited  (Sept 2015 -- Oct 2020)
 Site Reliability Engineer
 {: .label .label-blue }
 
