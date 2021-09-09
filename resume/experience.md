@@ -5,14 +5,15 @@
 Senior Site Reliability Engineer
 {: .label .label-blue }
 
-Part of the CISCO Contact Center product offering SRE team. 
-Experience in handling large scale production environments. 
+Part of the SRE team for the CISCO Contact Center product.
+Experience in handling multiple large scale production environments. 
 Below are the part of my job responsibilities in current role
- 
-* Develop and maintain multiple large scale environments.
-* Expertise in infrastructure provisioning in cloud with zero downtime.
+
+* Terraform expert and hands-on experience with complete HashiCorp stack.
+* Terraform version upgrades for the LIVE environments without downtime.
+* HashiCorp Nomad setup from scratch and migrating existing workloads.
+* Build CICD pipelines with Jenkins, Spinnaker and other tools.
 * Production monitoring and pagerduty on call support for prod issues. 
-* Build CICD pipelines with Jenkins, Spinnaker and other tools
 
 
 ### Groupon Shared Services Private Limited  (Sept 2015 -- Oct 2020)
