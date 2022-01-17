@@ -9,7 +9,7 @@ layout: home
 # Vipra Dwivedi
 {: .no_toc }
 
-9 years of experience as Developer, DevOps, SRE
+10 years of experience as Developer, DevOps, SRE
 {: .fs-5 .fw-700 .label .label-blue }
 
 ## Table of contents
