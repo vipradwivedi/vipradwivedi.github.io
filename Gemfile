@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # custom theme
 gem "just-the-docs"
+
+gem "webrick", "~> 1.8"
