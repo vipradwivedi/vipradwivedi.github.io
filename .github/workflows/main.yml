@@ -1,16 +1,16 @@
-name: Build and publish jekyll site
+# name: Build and publish jekyll site
 
-on:
-  push
+# on:
+#   push
 
-jobs:
-  jekyll:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
+# jobs:
+#   jekyll:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repo
+#         uses: actions/checkout@v2
 
-      - name: Jekyll Build and Publish
-        uses:  helaili/jekyll-action@master
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+#       - name: Jekyll Build and Publish
+#         uses:  helaili/jekyll-action@master
+#         env:
+#           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
