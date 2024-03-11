@@ -5,10 +5,8 @@ Homepage: [https://vipradwivedi.github.io](https://vipradwivedi.github.io)
 
 ### Update
 
-1. Checkout `publish` branch.
+1. Create branch from `main`.
+2. Make changes and test locally with `bundle exec jekyll serve`.
+3. Commit and push changes, create PR against `main` branch.
+4. `.github/workflows/jekyll.yml` will automatically build and deploy changes.
 
-1. Make changes and test locally with `bundle exec jekyll serve`.
-
-1. Commit and push changes on `publish` branch.
-
-1. Changes will be automatically merged to `master` after build.
